@@ -1,0 +1,39 @@
+.Footer {
+    width: 100%;
+    background: #2d2d2e;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    color: #919395;
+    padding: 28px 0;
+    font-size: 0.8em;
+}
+.Footer a, .Footer a:visited {
+    color: #919395;
+    text-decoration: none;
+    -webkit-transition: color 0.3s;
+    -o-transition: color 0.3s;
+    transition: color 0.3s;
+}
+.Footer a:hover {
+    color: #1dbfe8;
+}
+hr{
+    display: block;
+    width: 100%;
+    border: none;
+    height: 1px;
+    background: #4b4b4c;
+}
+.innerContainerFooter {
+    width: 96%;
+    height: 100%;
+    max-width: 945px;
+    margin: 0 auto;
+    text-align: center;
+}
+.footer-logo {
+    width: 104px;
+    margin-bottom: 17px;
+}

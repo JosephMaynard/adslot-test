@@ -1,0 +1,24 @@
+.Header {
+    height: 58px;
+    width: 100%;
+    background: #fff;
+    border-top: 1px #d8d8d9 solid;
+    border-bottom: 1px #d8d8d9 solid;
+}
+.innerContainer {
+    width: 96%;
+    height: 100%;
+    max-width: 945px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    align-items: center;
+}
+.header-logo {
+    width: 96px;
+}
+.close-button {
+    width: 30px;
+    cursor: pointer;
+}

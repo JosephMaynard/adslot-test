@@ -1,0 +1,15 @@
+.SearchResult {    
+    width: 96%;
+    max-width: 945px;
+    margin: 15px auto;
+    box-sizing: border-box;
+}
+.SearchResult a, .SearchResult a:visited {
+    color: #006dcc;
+    font-size: 1.5em;
+}
+
+.SearchResult p {
+    color: #6d6f70;
+    margin: 6px 0;
+}

@@ -1,0 +1,11 @@
+.NothingFound {
+    text-align: center;
+    width: 80%;
+    max-width: 680px;
+    margin: 15px auto;
+    box-sizing: border-box;
+    border: solid 1px #d6d7d8;
+    color: #919395;
+    font-size: 1.3em;
+    padding: 20px;
+}

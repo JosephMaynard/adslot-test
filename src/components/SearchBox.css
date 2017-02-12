@@ -1,0 +1,16 @@
+#SearchBoxInput {
+    display: block;
+    font-size: 1.7em;
+    padding: 28px;
+    box-sizing: border-box;    
+    width: 96%;
+    height: 80px;
+    max-width: 945px;
+    margin: 35px auto;
+    border: #e2e2e3 solid 1px;
+    background: url(../svg/search-box-icon.svg) no-repeat 97% 50% #FFF;
+    background-size: 25px auto;
+    -webkit-transition: all 0.3s;
+    -o-transition: all 0.3s;
+    transition: all 0.3s;
+}
