@@ -6,13 +6,13 @@ import './Header.css';
 const Header = () => (
   <div className="Header">
     <div className="innerContainer">
-        <img src={HeaderLogo} className="header-logo" alt="Adslotmedia" />
-        <img
-          src={CloseButton}
-          className="close-button"
-          alt="Close"
-          onClick={() => alert('close')}
-        />
+      <img src={HeaderLogo} className="header-logo" alt="Adslotmedia" />
+      <img
+        src={CloseButton}
+        className="close-button"
+        alt="Close"
+        onClick={() => alert('close')}
+      />
     </div>
   </div>
 );

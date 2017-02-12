@@ -1,15 +1,22 @@
 .SearchResult {    
     width: 96%;
-    max-width: 945px;
-    margin: 15px auto;
+    max-width: 928px;
+    margin: 15px auto 30px;
     box-sizing: border-box;
 }
 .SearchResult a, .SearchResult a:visited {
     color: #006dcc;
-    font-size: 1.5em;
+    font-size: 1.2em;
+    -webkit-transition: color 0.3s;
+    -o-transition: color 0.3s;
+    transition: color 0.3s;
+}
+.SearchResult a:hover {
+    color: #1dbfe8;
 }
 
 .SearchResult p {
     color: #6d6f70;
     margin: 6px 0;
+    font-size: 0.9em
 }

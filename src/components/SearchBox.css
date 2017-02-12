@@ -5,8 +5,8 @@
     box-sizing: border-box;    
     width: 96%;
     height: 80px;
-    max-width: 945px;
-    margin: 35px auto;
+    max-width: 930px;
+    margin: 30px auto 35px;
     border: #e2e2e3 solid 1px;
     background: url(../svg/search-box-icon.svg) no-repeat 97% 50% #FFF;
     background-size: 25px auto;
